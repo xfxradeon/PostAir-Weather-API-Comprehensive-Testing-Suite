@@ -1,0 +1,12 @@
+[submodule "baseline-tests"]
+	path = baseline-tests
+	url = https://github.com/xfxradeon/postair-api-baseline-test-suite.git
+[submodule "error-handling-suite"]
+	path = error-handling-suite
+	url = https://github.com/xfxradeon/PostAir-Weather-API-postair-api-error-handling-suite.git
+[submodule "data-validation-suite"]
+	path = data-validation-suite
+	url = https://github.com/xfxradeon/PostAir-Weather-API-Data-Validation.git
+[submodule "performance-tests"]
+	path = performance-tests
+	url = https://github.com/xfxradeon/PostAir-Weather-Api-Performance-Test.git
